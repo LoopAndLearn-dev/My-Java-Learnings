@@ -1,4 +1,5 @@
-//Typecasting - 2 types
+//Typecasting - The process of converting one type to another type.
+              //2 types
 
 package type;
 public class Type {
